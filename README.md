@@ -1,8 +1,8 @@
 # cpp_example
 example c++ codes
 
-string input
-functions
-classes
-inheritance
-file manipulation
+string input <br/>
+functions  <br/>
+classes  <br/>
+inheritance  <br/>
+file manipulation  <br/>
